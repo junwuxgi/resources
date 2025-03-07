@@ -8,6 +8,7 @@
 
 * [Physics of Language Models](https://link.zhihu.com/?target=https%3A//physics.allen-zhu.com/home), 2025
 * [LLM Reasoning: Key Ideas and Limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), 2024
+* Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback, 202309v2, [paper](https://arxiv.org/pdf/2307.15217.pdf)
 * [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version), 2018
 
 ### Research Experiences
