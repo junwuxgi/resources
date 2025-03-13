@@ -3,6 +3,7 @@
 ### Industrial Frontier
 
 - [Open Scalable RL/Agentic Alignment Framework](https://github.com/junwuxgi/Open-Scalable-RL-Agentic-Alignment-Algorithm-and-Framework)
+- [Nathan Lambert](https://link.zhihu.com/?target=https%3A//www.natolambert.com/), [Interconnects.ai](https://link.zhihu.com/?target=https%3A//www.interconnects.ai/)
 - [Lilian Weng’s Blog](https://lilianweng.github.io/) 
 
 ### Academic Vanguard
